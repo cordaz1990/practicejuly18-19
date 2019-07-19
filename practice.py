@@ -1,3 +1,3 @@
 print("hello")
 print("wolrd")
-p
+print
