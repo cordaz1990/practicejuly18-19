@@ -1,3 +1,14 @@
-print("hello")
-print("wolrd")
-print
+#Square Roots
+#y =_x_+_a/2_         
+#      2
+
+>>> a = 4
+>>> x = 3
+>>> y = (x + a/x) /2
+>>> y
+2.16666666667
+
+>>> x = y
+>>> y = (x + a/x) / 2
+>>> y
+2.00641025641
